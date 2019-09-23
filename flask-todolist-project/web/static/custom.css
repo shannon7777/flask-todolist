@@ -1,0 +1,10 @@
+body {
+    font-family: Helvetica, sans-serif !important;
+    background-color: red!important;
+}
+
+#main-card-container {
+    /* overflow: auto; */
+    overflow-y: auto;
+    overflow-x: hidden;
+}
